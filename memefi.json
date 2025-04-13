@@ -1,0 +1,19 @@
+{
+  "name": "MemeFi",
+  "symbol": "MEME",
+  "description": "MemeFi is a community-driven meme token built on Solana. Total supply: 2,000,000,000. No roadmap, just vibes 🚀",
+  "image": "https://raw.githubusercontent.com/MemeFi5/memefi-metadata/main/memefi-logo.png",
+  "extensions": {
+    "website": "https://memefi.app",
+    "twitter": "https://twitter.com/MemeFi5"
+  },
+  "properties": {
+    "category": "image",
+    "creators": [
+      {
+        "address": "4PniqtN1nQqU7rfqgS2pjgnSwspSGhh3bMtvpwsWW58y",
+        "share": 100
+      }
+    ]
+  }
+}
